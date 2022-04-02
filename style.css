@@ -39,3 +39,8 @@ input {
   border: 2px solid #0e1d2f;
   box-sizing: border-box;
 }
+
+.logos {
+  max-height: 32px;
+  max-width: 32px;
+}
