@@ -1,0 +1,41 @@
+body {
+  background-image: url(https://i.imgur.com/JPKvQzc.png);
+  background-size: cover;
+}
+
+header {
+  text-align: center;
+  color: black;
+}
+
+.calculo {
+  background: #ecf4ff;
+  color: #1c1c1c;
+  margin: 64px;
+  border-radius: 20px;
+  box-shadow: 6px 6px 6px #0e1d2f;
+  padding: 64px;
+  text-align: center;
+}
+
+button {
+  align-self: flex-end;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 16px;
+  background: #ecf4ff;
+  border-radius: 100px;
+  border: 2px solid #0e1d2f;
+  box-sizing: border-box;
+}
+
+input {
+  align-self: flex-end;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 16px;
+  background: #ecf4ff;
+  border-radius: 100px;
+  border: 2px solid #0e1d2f;
+  box-sizing: border-box;
+}
