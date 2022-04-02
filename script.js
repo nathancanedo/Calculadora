@@ -115,5 +115,5 @@ function sair() {
   ).innerHTML = `<h2>Até a próxima.</h2><br><br> <button type="submit" onclick="novaOperacao()">Nova Operação</button><br><br>
   <p>Me siga nas redes sociais</p><br><a href="https://github.com/nathancanedo" target="_blank"><img class="logos" src="https://cdn-icons-png.flaticon.com/512/733/733609.png"/></a> <a href="https://www.linkedin.com/in/nathancanedo/" target="_blank"><img class="logos" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/></a> <a href="https://www.instagram.com/nathancanedo/" target="_blank"><img class="logos" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png"/></a> <a href="https://twitter.com/nathancanedo" target="_blank"><img class="logos" src="https://cdn-icons-png.flaticon.com/512/1384/1384017.png"/></a>
 `;
-`;
+
 }
