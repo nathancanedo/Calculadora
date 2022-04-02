@@ -45,5 +45,42 @@ input {
   max-width: 32px;
 
 }
+
+#github {
+  position: relative;
+}
+#github:hover {
+  top: -2px;
+  box-shadow: 0 2px 2px #666;
+  border-radius: 100px;
+}
+
+#linkedin {
+  position: relative;
+}
+#linkedin:hover {
+  top: -2px;
+  box-shadow: 0 2px 2px #666;
+  border-radius: 100px;
+}
+
+#instagram {
+  position: relative;
+}
+#instagram:hover {
+  top: -2px;
+  box-shadow: 0 2px 2px #666;
+  border-radius: 100px;
+}
+
+#twitter {
+  position: relative;
+}
+#twitter:hover {
+  top: -2px;
+  box-shadow: 0 2px 2px #666;
+  border-radius: 100px;
+}
+
  
 
